@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+chromadb
+tiktoken
+faiss-cpu
+langchain-community
+pypdf
+protobuf==3.20.*
